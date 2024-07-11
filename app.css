@@ -1,0 +1,14 @@
+html {
+    color : rgb(0, 0, 0);
+
+    background-color: rgba(166, 226, 0, 0.89);
+
+
+}
+.text {
+    display: inline-block;
+    vertical-align: top;
+}
+#borderimg {
+    border: 10px solid black
+}
